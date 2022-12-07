@@ -1,0 +1,6 @@
+package com.example.davusi.fragments
+
+import androidx.fragment.app.Fragment
+import com.example.davusi.R
+
+class ThirdFragment:Fragment(R.layout.fragment_third)
